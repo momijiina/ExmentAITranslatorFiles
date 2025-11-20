@@ -3,7 +3,7 @@
     "uuid": "a1b2c3d5-5788-90ab-cdef-123456789abc",
     "plugin_view_name": "ファイルのAI翻訳ツール",
     "description": "Google AI (Gemini)を使用してExcelとWordファイルを翻訳します。",
-    "author": "Exment Developer",
+    "author": "momijiina",
     "version": "1.0.0",
     "plugin_type": "page",
     "route": [
