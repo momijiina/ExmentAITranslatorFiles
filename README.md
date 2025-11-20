@@ -2,10 +2,11 @@
 ※ExcelやWorldのフォーマットは維持されるはずですが100%互換はなでいす。
 # Exment AIファイル翻訳システム
 Google Gemini AIを使用したExcelとWordファイルを翻訳するプラグインです。
+#### 画面
 <img width="991" height="435" alt="aifiles" src="https://github.com/user-attachments/assets/8b77db28-e629-49cc-9caa-bee18ebc9461" />
-
+### 翻訳
 <img width="844" height="561" alt="trans1" src="https://github.com/user-attachments/assets/0de17035-05a4-40bb-9af3-c0a6fa840a13" />
-
+### 翻訳結果
 <img width="1584" height="697" alt="comp" src="https://github.com/user-attachments/assets/994ee00b-f13a-4649-8bd8-3f1638ffe0f4" />
 
 ## 機能
